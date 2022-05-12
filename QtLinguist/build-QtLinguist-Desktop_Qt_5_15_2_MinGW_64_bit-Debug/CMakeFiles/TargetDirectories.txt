@@ -1,0 +1,5 @@
+C:/Users/LENOVA/OneDrive/Masaüstü/QtLinguist/build-QtLinguist-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/QtLinguist.dir
+C:/Users/LENOVA/OneDrive/Masaüstü/QtLinguist/build-QtLinguist-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVA/OneDrive/Masaüstü/QtLinguist/build-QtLinguist-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVA/OneDrive/Masaüstü/QtLinguist/build-QtLinguist-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/QtLinguist_autogen_timestamp_deps.dir
+C:/Users/LENOVA/OneDrive/Masaüstü/QtLinguist/build-QtLinguist-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/QtLinguist_autogen.dir
