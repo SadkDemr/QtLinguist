@@ -6,17 +6,17 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="27"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevir</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="40"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Dil</translation>
     </message>
 </context>
 <context>
@@ -24,12 +24,12 @@
     <message>
         <location filename="mainwindow.cpp" line="20"/>
         <source>Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Not</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="20"/>
         <source>This language is Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Dil Türkçe</translation>
     </message>
 </context>
 </TS>
