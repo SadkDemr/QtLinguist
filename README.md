@@ -13,7 +13,7 @@ This page is the untranslated version of the application.
 
 If we remove it from the command comment line here, the application changes according to the language we have added.
 
-![tr](https://imgyukle.com/f/2022/05/13/Rej0DY.jpg)
+![tr](https://github.com/SadkDemr/QtLinguist/blob/main/QtLinguist/img/tr.jpg?raw=true)
 
 
 This becomes
