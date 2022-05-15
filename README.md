@@ -4,7 +4,7 @@
 
 Qt Linguist is a tool for adding translations to Qt applications.
 
-![en](https://imgyukle.com/f/2022/05/13/RejexS.jpg)
+![en](https://github.com/SadkDemr/QtLinguist/blob/main/QtLinguist/img/en.jpg?raw=true)
 
 This page is the untranslated version of the application.
 
