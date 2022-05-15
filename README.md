@@ -8,7 +8,7 @@ Qt Linguist is a tool for adding translations to Qt applications.
 
 This page is the untranslated version of the application.
 
-![I am GitHub Readme Generator's creator](https://imgyukle.com/f/2022/05/13/Rej6KN.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/SadkDemr/QtLinguist/blob/main/QtLinguist/img/commet.jpg?raw=true)
 
 
 If we remove it from the command comment line here, the application changes according to the language we have added.
